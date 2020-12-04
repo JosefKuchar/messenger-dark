@@ -1,3 +1,12 @@
+/* ==UserStyle==
+@name           Messenger dark
+@namespace      https://github.com/JosefKuchar/messenger-dark
+@version        1.0.0
+@description    Messenger dark
+@author         0x63756D, Josef Kuchař
+@preprocessor   stylus
+==/UserStyle== */
+
 @-moz-document regexp("https?://www.messenger.com/.*") {
 body,
 ._4sp8,
